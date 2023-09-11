@@ -9,3 +9,11 @@ in places like repository READMEs and comments on pull requests and issues.
 
 Submitted by APPDEV_103969
 
+## Links
+
+1. https://md2pdf.netlify.app/
+2. GitHub Help/Support (https://support.github.com)
+3. https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git
+4. https://www.markdownguide.org
+5. https://docs.github.com/en/repositories/ 
+6. https://pandoc.org/installing.html 
