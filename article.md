@@ -116,4 +116,3 @@ learning the language.
 • Python for Data Science Handbook - A free online book that provides a comprehensive
 introduction
 
-"Anyone who has never made a mistake has never tried anything new"
